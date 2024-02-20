@@ -1,0 +1,2 @@
+pyautogen==0.2.14
+litellm[proxy]==1.26.3
